@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uwieweico.neo1989.net/sitemap.xml
